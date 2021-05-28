@@ -1,3 +1,4 @@
-Lab4 Parallel Processing
+# Tic-Tac-Toe-JavaFX-GUI
 
-This lab required me to make a tic-tac-toe game. This program uses JavaFX for the GUI interface.
+
+Plays a Tic Tac Toe game with a GUI
